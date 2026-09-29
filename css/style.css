@@ -4856,3 +4856,26 @@ body.horizontal section.clients{
 /* Custom, iPhone Retina */
 
 @media only screen and (max-width: 320px) {}
+
+
+/*----------------------------------------
+  Certificaciones - Política de calidad
+------------------------------------------*/
+
+section.capabilities .politica-calidad {
+    clear: both;
+    margin-top: 60px;
+    text-align: center;
+}
+
+section.capabilities .politica-calidad h3 {
+    color: #ffffff;
+    text-transform: uppercase;
+    margin-bottom: 30px;
+}
+
+section.capabilities .politica-calidad img {
+    margin: 0 auto;
+    border-radius: 4px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.35);
+}
